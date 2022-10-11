@@ -8,7 +8,7 @@ public class testegithub {
 			int nota1 = 100;
 			int nota2 = 50;
 			int nota3 = 60;
-			int nota4 = 600;
+			int nota4 = 60;
 			
 			int mediaFinal = (nota1 + nota2 + nota3 + nota4) / 4;
 			
