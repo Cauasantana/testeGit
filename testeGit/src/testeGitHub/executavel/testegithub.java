@@ -6,7 +6,7 @@ public class testegithub {
 		public static void main(String[] args) {
 			
 			int nota1 = 100;
-			int nota2 = 50;
+			int nota2 = 70;
 			int nota3 = 60;
 			int nota4 = 60;
 			
